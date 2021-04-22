@@ -1,0 +1,21 @@
+h1{
+    color:darkmagenta
+}
+*{
+    background-color:mediumorchid
+}
+
+.heading{
+    background-color:mediumslateblue;
+    display:flex;
+    justify-content:space-between
+}
+
+.name{
+display:flex;
+justify-content:space-evenly;
+flex-wrap:wrap;    
+}
+
+
+
